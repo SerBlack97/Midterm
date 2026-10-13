@@ -9,6 +9,10 @@ body{
     background: rgb(185, 212, 221);
 }
 
+h1{
+    text-align: center;
+}
+
 h1, h2, p{
     color: rgb(29, 65, 80);
 }
@@ -38,7 +42,7 @@ h1, h2, p{
    width: 100%;
    max-height: 100px;
    height: 100%;
-   margin-top: 5px;
+   margin-top: 10px;
    padding-top: 13px;
    box-sizing: border-box;
 }
